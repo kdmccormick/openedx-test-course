@@ -1,3 +1,10 @@
+🛑🛑🛑
+
+This repository is no longer under active development or maintenance.  Consider using `the Open edX Demo Course instead <https://github.com/openedx/openedx-demo-course>`_.
+
+🛑🛑🛑
+
+
 Open edX Test Course (and Test Libraries)
 #########################################
 
