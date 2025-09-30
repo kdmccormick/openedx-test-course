@@ -1,1 +1,4 @@
-<conditional sources="i4x://OpenedX/TestCourse/problem/a2d28872b24541228edc0a27490143e4" correct="True" message="You must complete {link} before you can access this unit."/>
+<conditional sources="i4x://OpenedX/TestCourse/problem/a2d28872b24541228edc0a27490143e4" correct="True" message="You must complete {link} before you can access this content.">
+  <html url_name="a0229e9aeefb412589495025d0996b3f"/>
+  <html url_name="5f2027296a9c4c9da20e565770dfadea"/>
+</conditional>
