@@ -1,3 +1,13 @@
-<problem display_name="Conditional gating question" downstream_customized="[&quot;display_name&quot;]" markdown="null" markdown_edited="false" rerandomize="never" show_reset_button="false" showanswer="finished" weight="1.0"><multiplechoiceresponse>
-<div>Do you want to see the Conditional content?</div><choicegroup><choice correct="true"><div>Yes</div></choice><choice correct="false"><div>No</div></choice></choicegroup></multiplechoiceresponse>
+<problem display_name="Conditional gating question" downstream_customized="[&quot;display_name&quot;]" markdown="null" markdown_edited="false" rerandomize="never" show_reset_button="false" showanswer="finished" weight="1.0">
+  <multiplechoiceresponse>
+    <div>Do you want to see the Conditional content?</div>
+    <choicegroup>
+      <choice correct="true">
+        <div>Yes</div>
+      </choice>
+      <choice correct="false">
+        <div>No</div>
+      </choice>
+    </choicegroup>
+  </multiplechoiceresponse>
 </problem>

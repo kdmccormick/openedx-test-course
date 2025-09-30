@@ -1,1 +1,5 @@
-<randomize/>
+<randomize>
+  <problem display_name="Random 123" url_name="random123"/>
+  <problem display_name="Random 456" url_name="random456"/>
+  <problem display_name="Random 789" url_name="random789"/>
+</randomize>
