@@ -3,21 +3,22 @@
         "contentType": "image/png",
         "content_son": {
             "category": "asset",
-            "course": "Course",
+            "course": "TestCourse",
             "name": "Screenshot_2022-05-17_12-45-12.png",
-            "org": "TestX",
+            "org": "OpenedX",
             "revision": null,
-            "run": "1",
+            "run": "TestX",
             "tag": "c4x"
         },
+        "custom_md5": "ddc8ebc9e0d6394a5ebb0ac87dae1ad6",
         "displayname": "Screenshot_2022-05-17_12-45-12.png",
-        "filename": "asset-v1:TestX+Course+1+type@asset+block@Screenshot_2022-05-17_12-45-12.png",
+        "filename": "asset-v1:OpenedX+TestCourse+TestX+type@asset+block@Screenshot_2022-05-17_12-45-12.png",
         "import_path": "Screenshot_2022-05-17_12-45-12.png",
         "locked": false,
         "thumbnail_location": [
             "c4x",
-            "TestX",
-            "Course",
+            "OpenedX",
+            "TestCourse",
             "thumbnail",
             "Screenshot_2022-05-17_12-45-12-png.jpg",
             null

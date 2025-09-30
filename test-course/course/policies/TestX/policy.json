@@ -1,8 +1,10 @@
 {
-    "course/1": {
+    "course/TestX": {
         "advanced_modules": [
             "annotatable",
             "conditional",
+            "content_restrictions",
+            "controlled_navigation",
             "done",
             "edx_sga",
             "google-calendar",
@@ -12,8 +14,11 @@
             "library_content",
             "library_sourced",
             "poll",
+            "problem-builder",
+            "randomize",
             "rate",
             "scorm",
+            "step-builder",
             "split_test",
             "staffgradedxblock",
             "survey"
@@ -34,11 +39,6 @@
         "learning_info": [],
         "start": "2022-04-09T00:00:00Z",
         "tabs": [
-            {
-                "course_staff_only": false,
-                "name": "Home",
-                "type": "course_info"
-            },
             {
                 "course_staff_only": false,
                 "name": "Course",

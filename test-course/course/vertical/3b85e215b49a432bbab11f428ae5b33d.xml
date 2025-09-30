@@ -1,0 +1,5 @@
+<vertical display_name="Example: problem-builder, step-builder" downstream_customized="[&quot;display_name&quot;]">
+  <html url_name="a946743b368940f58073cd5044adbe2e"/>
+  <problem-builder url_name="743d91cb427c4b5ba2fc107708aed3c6" xblock-family="xblock.v1"/>
+  <step-builder url_name="3f0571c8767f41b1ad766c1ba3d70329" xblock-family="xblock.v1"/>
+</vertical>
