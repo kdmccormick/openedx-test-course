@@ -24,8 +24,8 @@ dist: ## create/overwrite tars for test course and for each test library
 	cd $(PROBLEM_BANK) && tar czfv ../$(PROBLEM_BANK_TAR) ./library/
 
 unpack: ## unpack all existent tars of test course and libraries
-	[ -f $(COURSE_TAR) ] && (cd $(COURSE) && tar xzfv ../$(COURSE_TAR)) || echo "No course to unpack."
-	[ -f $(PROBLEM_BANK_TAR) ] && (cd $(PROBLEM_BANK) && tar xzfv ../$(PROBLEM_BANK_TAR)) || echo "No problem bank to unpack."
+	[ -f $(COURSE_TAR) ] && (rm -rf $(COURSE) && mkdir -p $(COURSE) && cd $(COURSE) && tar xzfv ../$(COURSE_TAR)) || echo "No course to unpack."
+	[ -f $(PROBLEM_BANK_TAR) ] && (rm -rf $(PROBLEM_BANK) && mkdir -p $(PROBLEM_BANK) && cd $(PROBLEM_BANK) && tar xzfv ../$(PROBLEM_BANK_TAR)) || echo "No problem bank to unpack."
 
 # Backwards compatibility.
 tar: dist
