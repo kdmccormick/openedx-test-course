@@ -1,1 +1,20 @@
-{}
+{
+    "python_lib.zip": {
+        "contentType": "application/zip",
+        "content_son": {
+            "category": "asset",
+            "course": "1",
+            "name": "python_lib.zip",
+            "org": "Axim",
+            "revision": null,
+            "run": "library",
+            "tag": "c4x"
+        },
+        "custom_md5": "0c180aaecfc03e7428fcba519346f22c",
+        "displayname": "python_lib.zip",
+        "filename": "asset-v1:Axim+1+type@asset+block@python_lib.zip",
+        "import_path": "python_lib.zip",
+        "locked": false,
+        "thumbnail_location": null
+    }
+}

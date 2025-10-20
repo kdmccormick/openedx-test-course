@@ -1,4 +1,635 @@
 {
+    "10840580-cf26-4aeb-8076-7cacf5eaf5ae-en.srt": {
+        "contentType": "application/octet-stream",
+        "content_son": {
+            "category": "asset",
+            "course": "TestCourse",
+            "name": "10840580-cf26-4aeb-8076-7cacf5eaf5ae-en.srt",
+            "org": "OpenedX",
+            "revision": null,
+            "run": "TestX",
+            "tag": "c4x"
+        },
+        "custom_md5": "b7f37fe0668a436c9a97df0d907931d2",
+        "displayname": "10840580-cf26-4aeb-8076-7cacf5eaf5ae-en.srt",
+        "filename": "asset-v1:OpenedX+TestCourse+TestX+type@asset+block@10840580-cf26-4aeb-8076-7cacf5eaf5ae-en.srt",
+        "import_path": "10840580-cf26-4aeb-8076-7cacf5eaf5ae-en.srt",
+        "locked": false,
+        "thumbnail_location": null
+    },
+    "29425bc9-05c6-48fd-8232-c795ddf4e193-en.srt": {
+        "contentType": "application/octet-stream",
+        "content_son": {
+            "category": "asset",
+            "course": "TestCourse",
+            "name": "29425bc9-05c6-48fd-8232-c795ddf4e193-en.srt",
+            "org": "OpenedX",
+            "revision": null,
+            "run": "TestX",
+            "tag": "c4x"
+        },
+        "custom_md5": "bf7ac4b3b7b177f3143cbfb81c1e8a33",
+        "displayname": "29425bc9-05c6-48fd-8232-c795ddf4e193-en.srt",
+        "filename": "asset-v1:OpenedX+TestCourse+TestX+type@asset+block@29425bc9-05c6-48fd-8232-c795ddf4e193-en.srt",
+        "import_path": "29425bc9-05c6-48fd-8232-c795ddf4e193-en.srt",
+        "locked": false,
+        "thumbnail_location": null
+    },
+    "48c991fb-083c-45e1-adad-930d2b11b11e-en.srt": {
+        "contentType": "application/octet-stream",
+        "content_son": {
+            "category": "asset",
+            "course": "TestCourse",
+            "name": "48c991fb-083c-45e1-adad-930d2b11b11e-en.srt",
+            "org": "OpenedX",
+            "revision": null,
+            "run": "TestX",
+            "tag": "c4x"
+        },
+        "custom_md5": "26f01f365a24b191e3e62438fc5aaf26",
+        "displayname": "48c991fb-083c-45e1-adad-930d2b11b11e-en.srt",
+        "filename": "asset-v1:OpenedX+TestCourse+TestX+type@asset+block@48c991fb-083c-45e1-adad-930d2b11b11e-en.srt",
+        "import_path": "48c991fb-083c-45e1-adad-930d2b11b11e-en.srt",
+        "locked": false,
+        "thumbnail_location": null
+    },
+    "48c991fb-083c-45e1-adad-930d2b11b11e-es.srt": {
+        "contentType": "application/octet-stream",
+        "content_son": {
+            "category": "asset",
+            "course": "TestCourse",
+            "name": "48c991fb-083c-45e1-adad-930d2b11b11e-es.srt",
+            "org": "OpenedX",
+            "revision": null,
+            "run": "TestX",
+            "tag": "c4x"
+        },
+        "custom_md5": "3ebd7da2cb3a937c3fa2e476ffdbe811",
+        "displayname": "48c991fb-083c-45e1-adad-930d2b11b11e-es.srt",
+        "filename": "asset-v1:OpenedX+TestCourse+TestX+type@asset+block@48c991fb-083c-45e1-adad-930d2b11b11e-es.srt",
+        "import_path": "48c991fb-083c-45e1-adad-930d2b11b11e-es.srt",
+        "locked": false,
+        "thumbnail_location": null
+    },
+    "Abacus.png": {
+        "contentType": "image/png",
+        "content_son": {
+            "category": "asset",
+            "course": "TestCourse",
+            "name": "Abacus.png",
+            "org": "OpenedX",
+            "revision": null,
+            "run": "TestX",
+            "tag": "c4x"
+        },
+        "custom_md5": "135301dd10ba54600563653ee2174b53",
+        "displayname": "Abacus.png",
+        "filename": "asset-v1:OpenedX+TestCourse+TestX+type@asset+block@Abacus.png",
+        "import_path": "Abacus.png",
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "OpenedX",
+            "TestCourse",
+            "thumbnail",
+            "Abacus-png.jpg",
+            null
+        ]
+    },
+    "Abacus_solution.png": {
+        "contentType": "image/png",
+        "content_son": {
+            "category": "asset",
+            "course": "TestCourse",
+            "name": "Abacus_solution.png",
+            "org": "OpenedX",
+            "revision": null,
+            "run": "TestX",
+            "tag": "c4x"
+        },
+        "custom_md5": "63bbc31a968abba2f1d078526cc83073",
+        "displayname": "Abacus_solution.png",
+        "filename": "asset-v1:OpenedX+TestCourse+TestX+type@asset+block@Abacus_solution.png",
+        "import_path": "Abacus_solution.png",
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "OpenedX",
+            "TestCourse",
+            "thumbnail",
+            "Abacus_solution-png.jpg",
+            null
+        ]
+    },
+    "Brain_green.png": {
+        "contentType": "image/png",
+        "content_son": {
+            "category": "asset",
+            "course": "TestCourse",
+            "name": "Brain_green.png",
+            "org": "OpenedX",
+            "revision": null,
+            "run": "TestX",
+            "tag": "c4x"
+        },
+        "custom_md5": "4d8b1c8653eb1e1da261e8cb9d889cfd",
+        "displayname": "Brain green.png",
+        "filename": "asset-v1:OpenedX+TestCourse+TestX+type@asset+block@Brain_green.png",
+        "import_path": "Brain green.png",
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "OpenedX",
+            "TestCourse",
+            "thumbnail",
+            "Brain_green-png.jpg",
+            null
+        ]
+    },
+    "Brain_red.png": {
+        "contentType": "image/png",
+        "content_son": {
+            "category": "asset",
+            "course": "TestCourse",
+            "name": "Brain_red.png",
+            "org": "OpenedX",
+            "revision": null,
+            "run": "TestX",
+            "tag": "c4x"
+        },
+        "custom_md5": "c84e53af7d17691543d38a4abeec3917",
+        "displayname": "Brain red.png",
+        "filename": "asset-v1:OpenedX+TestCourse+TestX+type@asset+block@Brain_red.png",
+        "import_path": "Brain red.png",
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "OpenedX",
+            "TestCourse",
+            "thumbnail",
+            "Brain_red-png.jpg",
+            null
+        ]
+    },
+    "Brain_target_sm.png": {
+        "contentType": "image/png",
+        "content_son": {
+            "category": "asset",
+            "course": "TestCourse",
+            "name": "Brain_target_sm.png",
+            "org": "OpenedX",
+            "revision": null,
+            "run": "TestX",
+            "tag": "c4x"
+        },
+        "custom_md5": "052be2eb9181576773bea557d16f96ac",
+        "displayname": "Brain_target_sm.png",
+        "filename": "asset-v1:OpenedX+TestCourse+TestX+type@asset+block@Brain_target_sm.png",
+        "import_path": "Brain_target_sm.png",
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "OpenedX",
+            "TestCourse",
+            "thumbnail",
+            "Brain_target_sm-png.jpg",
+            null
+        ]
+    },
+    "Brain_yellow.png": {
+        "contentType": "image/png",
+        "content_son": {
+            "category": "asset",
+            "course": "TestCourse",
+            "name": "Brain_yellow.png",
+            "org": "OpenedX",
+            "revision": null,
+            "run": "TestX",
+            "tag": "c4x"
+        },
+        "custom_md5": "1f7e55c6829571bd7d55b238b84f80a1",
+        "displayname": "Brain yellow.png",
+        "filename": "asset-v1:OpenedX+TestCourse+TestX+type@asset+block@Brain_yellow.png",
+        "import_path": "Brain yellow.png",
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "OpenedX",
+            "TestCourse",
+            "thumbnail",
+            "Brain_yellow-png.jpg",
+            null
+        ]
+    },
+    "DiagnosisSimulation.html": {
+        "contentType": "text/html",
+        "content_son": {
+            "category": "asset",
+            "course": "TestCourse",
+            "name": "DiagnosisSimulation.html",
+            "org": "OpenedX",
+            "revision": null,
+            "run": "TestX",
+            "tag": "c4x"
+        },
+        "custom_md5": "c2f6e38dd577923173ef8223335895c4",
+        "displayname": "DiagnosisSimulation.html",
+        "filename": "asset-v1:OpenedX+TestCourse+TestX+type@asset+block@DiagnosisSimulation.html",
+        "import_path": "DiagnosisSimulation.html",
+        "locked": false,
+        "thumbnail_location": null
+    },
+    "DiagnosisSimulation2.html": {
+        "contentType": "text/html",
+        "content_son": {
+            "category": "asset",
+            "course": "TestCourse",
+            "name": "DiagnosisSimulation2.html",
+            "org": "OpenedX",
+            "revision": null,
+            "run": "TestX",
+            "tag": "c4x"
+        },
+        "custom_md5": "153e6831e9faeb54cd8ff054a8b12047",
+        "displayname": "DiagnosisSimulation2.html",
+        "filename": "asset-v1:OpenedX+TestCourse+TestX+type@asset+block@DiagnosisSimulation2.html",
+        "import_path": "DiagnosisSimulation2.html",
+        "locked": false,
+        "thumbnail_location": null
+    },
+    "DiagnosisSimulation_h2_1.html": {
+        "contentType": "text/html",
+        "content_son": {
+            "category": "asset",
+            "course": "TestCourse",
+            "name": "DiagnosisSimulation_h2_1.html",
+            "org": "OpenedX",
+            "revision": null,
+            "run": "TestX",
+            "tag": "c4x"
+        },
+        "custom_md5": "f41128ee3a7f13ea30f4c06114ead381",
+        "displayname": "DiagnosisSimulation_h2_1.html",
+        "filename": "asset-v1:OpenedX+TestCourse+TestX+type@asset+block@DiagnosisSimulation_h2_1.html",
+        "import_path": "DiagnosisSimulation_h2_1.html",
+        "locked": false,
+        "thumbnail_location": null
+    },
+    "Discussion_Post.png": {
+        "contentType": "image/png",
+        "content_son": {
+            "category": "asset",
+            "course": "TestCourse",
+            "name": "Discussion_Post.png",
+            "org": "OpenedX",
+            "revision": null,
+            "run": "TestX",
+            "tag": "c4x"
+        },
+        "custom_md5": "e00df4f0b96897760fa99fb15e37e583",
+        "displayname": "Discussion_Post.png",
+        "filename": "asset-v1:OpenedX+TestCourse+TestX+type@asset+block@Discussion_Post.png",
+        "import_path": "Discussion_Post.png",
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "OpenedX",
+            "TestCourse",
+            "thumbnail",
+            "Discussion_Post-png.jpg",
+            null
+        ]
+    },
+    "HXEditor.js": {
+        "contentType": "text/javascript",
+        "content_son": {
+            "category": "asset",
+            "course": "TestCourse",
+            "name": "HXEditor.js",
+            "org": "OpenedX",
+            "revision": null,
+            "run": "TestX",
+            "tag": "c4x"
+        },
+        "custom_md5": "3141c4a8443c3e2a86227eb4ed841f41",
+        "displayname": "HXEditor.js",
+        "filename": "asset-v1:OpenedX+TestCourse+TestX+type@asset+block@HXEditor.js",
+        "import_path": "HXEditor.js",
+        "locked": false,
+        "thumbnail_location": null
+    },
+    "HXPopUpProblems.js": {
+        "contentType": "text/javascript",
+        "content_son": {
+            "category": "asset",
+            "course": "TestCourse",
+            "name": "HXPopUpProblems.js",
+            "org": "OpenedX",
+            "revision": null,
+            "run": "TestX",
+            "tag": "c4x"
+        },
+        "custom_md5": "8ebcb8c14566433f327766a322c9dd75",
+        "displayname": "HXPopUpProblems.js",
+        "filename": "asset-v1:OpenedX+TestCourse+TestX+type@asset+block@HXPopUpProblems.js",
+        "import_path": "HXPopUpProblems.js",
+        "locked": false,
+        "thumbnail_location": null
+    },
+    "HXVideoChime.js": {
+        "contentType": "text/javascript",
+        "content_son": {
+            "category": "asset",
+            "course": "TestCourse",
+            "name": "HXVideoChime.js",
+            "org": "OpenedX",
+            "revision": null,
+            "run": "TestX",
+            "tag": "c4x"
+        },
+        "custom_md5": "dabd8af260101fe6ad7f55c44055201d",
+        "displayname": "HXVideoChime.js",
+        "filename": "asset-v1:OpenedX+TestCourse+TestX+type@asset+block@HXVideoChime.js",
+        "import_path": "HXVideoChime.js",
+        "locked": false,
+        "thumbnail_location": null
+    },
+    "HXVideoLinks.js": {
+        "contentType": "text/javascript",
+        "content_son": {
+            "category": "asset",
+            "course": "TestCourse",
+            "name": "HXVideoLinks.js",
+            "org": "OpenedX",
+            "revision": null,
+            "run": "TestX",
+            "tag": "c4x"
+        },
+        "custom_md5": "1bfb68f7384dca40e46e3565ca32bbfc",
+        "displayname": "HXVideoLinks.js",
+        "filename": "asset-v1:OpenedX+TestCourse+TestX+type@asset+block@HXVideoLinks.js",
+        "import_path": "HXVideoLinks.js",
+        "locked": false,
+        "thumbnail_location": null
+    },
+    "Jellyfish_720_10s_2MB.mp4": {
+        "contentType": "video/mp4",
+        "content_son": {
+            "category": "asset",
+            "course": "TestCourse",
+            "name": "Jellyfish_720_10s_2MB.mp4",
+            "org": "OpenedX",
+            "revision": null,
+            "run": "TestX",
+            "tag": "c4x"
+        },
+        "custom_md5": "44908538e5b84c8e65ba3facc3976c27",
+        "displayname": "Jellyfish_720_10s_2MB.mp4",
+        "filename": "asset-v1:OpenedX+TestCourse+TestX+type@asset+block@Jellyfish_720_10s_2MB.mp4",
+        "import_path": "Jellyfish_720_10s_2MB.mp4",
+        "locked": false,
+        "thumbnail_location": null
+    },
+    "Learning_Goals.pdf": {
+        "contentType": "application/pdf",
+        "content_son": {
+            "category": "asset",
+            "course": "TestCourse",
+            "name": "Learning_Goals.pdf",
+            "org": "OpenedX",
+            "revision": null,
+            "run": "TestX",
+            "tag": "c4x"
+        },
+        "custom_md5": "471c77eadf8387de2f7651e3fd199b6a",
+        "displayname": "Learning Goals.pdf",
+        "filename": "asset-v1:OpenedX+TestCourse+TestX+type@asset+block@Learning_Goals.pdf",
+        "import_path": "Learning Goals.pdf",
+        "locked": false,
+        "thumbnail_location": null
+    },
+    "Library_Content_graphic-100.png": {
+        "contentType": "image/png",
+        "content_son": {
+            "category": "asset",
+            "course": "TestCourse",
+            "name": "Library_Content_graphic-100.png",
+            "org": "OpenedX",
+            "revision": null,
+            "run": "TestX",
+            "tag": "c4x"
+        },
+        "custom_md5": "50a197f27e9c4e52a41a63db23ef6b26",
+        "displayname": "Library Content graphic-100.png",
+        "filename": "asset-v1:OpenedX+TestCourse+TestX+type@asset+block@Library_Content_graphic-100.png",
+        "import_path": "Library Content graphic-100.png",
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "OpenedX",
+            "TestCourse",
+            "thumbnail",
+            "Library_Content_graphic-100-png.jpg",
+            null
+        ]
+    },
+    "Marketplace-Open-edX_v2.png": {
+        "contentType": "image/png",
+        "content_son": {
+            "category": "asset",
+            "course": "TestCourse",
+            "name": "Marketplace-Open-edX_v2.png",
+            "org": "OpenedX",
+            "revision": null,
+            "run": "TestX",
+            "tag": "c4x"
+        },
+        "custom_md5": "c5683043451f3780e38a372d4a474cab",
+        "displayname": "Marketplace-Open-edX v2.png",
+        "filename": "asset-v1:OpenedX+TestCourse+TestX+type@asset+block@Marketplace-Open-edX_v2.png",
+        "import_path": "Marketplace-Open-edX v2.png",
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "OpenedX",
+            "TestCourse",
+            "thumbnail",
+            "Marketplace-Open-edX_v2-png.jpg",
+            null
+        ]
+    },
+    "OpenedX_Ecosystem.jpg": {
+        "contentType": "image/jpeg",
+        "content_son": {
+            "category": "asset",
+            "course": "TestCourse",
+            "name": "OpenedX_Ecosystem.jpg",
+            "org": "OpenedX",
+            "revision": null,
+            "run": "TestX",
+            "tag": "c4x"
+        },
+        "custom_md5": "d87a277926996923e83a32dacd5b4116",
+        "displayname": "OpenedX_Ecosystem.jpg",
+        "filename": "asset-v1:OpenedX+TestCourse+TestX+type@asset+block@OpenedX_Ecosystem.jpg",
+        "import_path": "OpenedX_Ecosystem.jpg",
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "OpenedX",
+            "TestCourse",
+            "thumbnail",
+            "OpenedX_Ecosystem.jpg",
+            null
+        ]
+    },
+    "OpenedX_vs_edx_infographic_v2.jpeg": {
+        "contentType": "image/jpeg",
+        "content_son": {
+            "category": "asset",
+            "course": "TestCourse",
+            "name": "OpenedX_vs_edx_infographic_v2.jpeg",
+            "org": "OpenedX",
+            "revision": null,
+            "run": "TestX",
+            "tag": "c4x"
+        },
+        "custom_md5": "bc93b93356ca23abd80722c131cd734f",
+        "displayname": "OpenedX_vs_edx_infographic_v2.jpeg",
+        "filename": "asset-v1:OpenedX+TestCourse+TestX+type@asset+block@OpenedX_vs_edx_infographic_v2.jpeg",
+        "import_path": "OpenedX_vs_edx_infographic_v2.jpeg",
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "OpenedX",
+            "TestCourse",
+            "thumbnail",
+            "OpenedX_vs_edx_infographic_v2-jpeg.jpg",
+            null
+        ]
+    },
+    "Pendleton_Sinking_Ship.jpeg": {
+        "contentType": "image/jpeg",
+        "content_son": {
+            "category": "asset",
+            "course": "TestCourse",
+            "name": "Pendleton_Sinking_Ship.jpeg",
+            "org": "OpenedX",
+            "revision": null,
+            "run": "TestX",
+            "tag": "c4x"
+        },
+        "custom_md5": "5b628a18f2ee3303081ffe4d6ab64ee4",
+        "displayname": "Pendleton_Sinking_Ship.jpeg",
+        "filename": "asset-v1:OpenedX+TestCourse+TestX+type@asset+block@Pendleton_Sinking_Ship.jpeg",
+        "import_path": "Pendleton_Sinking_Ship.jpeg",
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "OpenedX",
+            "TestCourse",
+            "thumbnail",
+            "Pendleton_Sinking_Ship-jpeg.jpg",
+            null
+        ]
+    },
+    "Periodic-Table-Colors.css": {
+        "contentType": "text/css",
+        "content_son": {
+            "category": "asset",
+            "course": "TestCourse",
+            "name": "Periodic-Table-Colors.css",
+            "org": "OpenedX",
+            "revision": null,
+            "run": "TestX",
+            "tag": "c4x"
+        },
+        "custom_md5": "64a0408d805e6be781f3cd9958a71889",
+        "displayname": "Periodic-Table-Colors.css",
+        "filename": "asset-v1:OpenedX+TestCourse+TestX+type@asset+block@Periodic-Table-Colors.css",
+        "import_path": "Periodic-Table-Colors.css",
+        "locked": false,
+        "thumbnail_location": null
+    },
+    "Periodic-Table.css": {
+        "contentType": "text/css",
+        "content_son": {
+            "category": "asset",
+            "course": "TestCourse",
+            "name": "Periodic-Table.css",
+            "org": "OpenedX",
+            "revision": null,
+            "run": "TestX",
+            "tag": "c4x"
+        },
+        "custom_md5": "443200503c4eaf12f16ab1285a59faf1",
+        "displayname": "Periodic-Table.css",
+        "filename": "asset-v1:OpenedX+TestCourse+TestX+type@asset+block@Periodic-Table.css",
+        "import_path": "Periodic-Table.css",
+        "locked": false,
+        "thumbnail_location": null
+    },
+    "Periodic-Table.js": {
+        "contentType": "text/javascript",
+        "content_son": {
+            "category": "asset",
+            "course": "TestCourse",
+            "name": "Periodic-Table.js",
+            "org": "OpenedX",
+            "revision": null,
+            "run": "TestX",
+            "tag": "c4x"
+        },
+        "custom_md5": "d78f6b70f51799f4ee44a9c475af837a",
+        "displayname": "Periodic-Table.js",
+        "filename": "asset-v1:OpenedX+TestCourse+TestX+type@asset+block@Periodic-Table.js",
+        "import_path": "Periodic-Table.js",
+        "locked": false,
+        "thumbnail_location": null
+    },
+    "Question_Post.png": {
+        "contentType": "image/png",
+        "content_son": {
+            "category": "asset",
+            "course": "TestCourse",
+            "name": "Question_Post.png",
+            "org": "OpenedX",
+            "revision": null,
+            "run": "TestX",
+            "tag": "c4x"
+        },
+        "custom_md5": "bfdc92f75ec53bb8c5a4e9bafa351de3",
+        "displayname": "Question_Post.png",
+        "filename": "asset-v1:OpenedX+TestCourse+TestX+type@asset+block@Question_Post.png",
+        "import_path": "Question_Post.png",
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "OpenedX",
+            "TestCourse",
+            "thumbnail",
+            "Question_Post-png.jpg",
+            null
+        ]
+    },
+    "Reach_of_Open_edX_Downloadable_Transcript.pdf": {
+        "contentType": "application/pdf",
+        "content_son": {
+            "category": "asset",
+            "course": "TestCourse",
+            "name": "Reach_of_Open_edX_Downloadable_Transcript.pdf",
+            "org": "OpenedX",
+            "revision": null,
+            "run": "TestX",
+            "tag": "c4x"
+        },
+        "custom_md5": "8ae7936e06712c0654f5dda52de43d8f",
+        "displayname": "Reach of Open edX Downloadable Transcript.pdf",
+        "filename": "asset-v1:OpenedX+TestCourse+TestX+type@asset+block@Reach_of_Open_edX_Downloadable_Transcript.pdf",
+        "import_path": "Reach of Open edX Downloadable Transcript.pdf",
+        "locked": false,
+        "thumbnail_location": null
+    },
     "Screenshot_2022-05-17_12-45-12.png": {
         "contentType": "image/png",
         "content_son": {
@@ -21,6 +652,2128 @@
             "TestCourse",
             "thumbnail",
             "Screenshot_2022-05-17_12-45-12-png.jpg",
+            null
+        ]
+    },
+    "VideoLinks.css": {
+        "contentType": "text/css",
+        "content_son": {
+            "category": "asset",
+            "course": "TestCourse",
+            "name": "VideoLinks.css",
+            "org": "OpenedX",
+            "revision": null,
+            "run": "TestX",
+            "tag": "c4x"
+        },
+        "custom_md5": "694ad36dea8d4ce32120b9c9ecd69f67",
+        "displayname": "VideoLinks.css",
+        "filename": "asset-v1:OpenedX+TestCourse+TestX+type@asset+block@VideoLinks.css",
+        "import_path": "VideoLinks.css",
+        "locked": false,
+        "thumbnail_location": null
+    },
+    "Video_Player_Elements_Image-100.png": {
+        "contentType": "image/png",
+        "content_son": {
+            "category": "asset",
+            "course": "TestCourse",
+            "name": "Video_Player_Elements_Image-100.png",
+            "org": "OpenedX",
+            "revision": null,
+            "run": "TestX",
+            "tag": "c4x"
+        },
+        "custom_md5": "6305c344d5fc8643c55c29bbac11d64a",
+        "displayname": "Video Player Elements Image-100.png",
+        "filename": "asset-v1:OpenedX+TestCourse+TestX+type@asset+block@Video_Player_Elements_Image-100.png",
+        "import_path": "Video Player Elements Image-100.png",
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "OpenedX",
+            "TestCourse",
+            "thumbnail",
+            "Video_Player_Elements_Image-100-png.jpg",
+            null
+        ]
+    },
+    "Video_Toolbar.png": {
+        "contentType": "image/png",
+        "content_son": {
+            "category": "asset",
+            "course": "TestCourse",
+            "name": "Video_Toolbar.png",
+            "org": "OpenedX",
+            "revision": null,
+            "run": "TestX",
+            "tag": "c4x"
+        },
+        "custom_md5": "d25764d71463074ab0d77a123f8692e6",
+        "displayname": "Video_Toolbar.png",
+        "filename": "asset-v1:OpenedX+TestCourse+TestX+type@asset+block@Video_Toolbar.png",
+        "import_path": "Video_Toolbar.png",
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "OpenedX",
+            "TestCourse",
+            "thumbnail",
+            "Video_Toolbar-png.jpg",
+            null
+        ]
+    },
+    "ajax-loader.gif": {
+        "contentType": "image/gif",
+        "content_son": {
+            "category": "asset",
+            "course": "TestCourse",
+            "name": "ajax-loader.gif",
+            "org": "OpenedX",
+            "revision": null,
+            "run": "TestX",
+            "tag": "c4x"
+        },
+        "custom_md5": "c5cd7f5300576ab4c88202b42f6ded62",
+        "displayname": "ajax-loader.gif",
+        "filename": "asset-v1:OpenedX+TestCourse+TestX+type@asset+block@ajax-loader.gif",
+        "import_path": "ajax-loader.gif",
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "OpenedX",
+            "TestCourse",
+            "thumbnail",
+            "ajax-loader-gif.jpg",
+            null
+        ]
+    },
+    "arrow-clicked.svg": {
+        "contentType": "image/svg+xml",
+        "content_son": {
+            "category": "asset",
+            "course": "TestCourse",
+            "name": "arrow-clicked.svg",
+            "org": "OpenedX",
+            "revision": null,
+            "run": "TestX",
+            "tag": "c4x"
+        },
+        "custom_md5": "7c5c06f21fc22f4750947c2cfae66c03",
+        "displayname": "arrow-clicked.svg",
+        "filename": "asset-v1:OpenedX+TestCourse+TestX+type@asset+block@arrow-clicked.svg",
+        "import_path": "arrow-clicked.svg",
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "OpenedX",
+            "TestCourse",
+            "thumbnail",
+            "arrow-clicked.svg",
+            null
+        ]
+    },
+    "b4cbbf59-b658-4a85-9dd7-80b5363d494b-en.srt": {
+        "contentType": "application/octet-stream",
+        "content_son": {
+            "category": "asset",
+            "course": "TestCourse",
+            "name": "b4cbbf59-b658-4a85-9dd7-80b5363d494b-en.srt",
+            "org": "OpenedX",
+            "revision": null,
+            "run": "TestX",
+            "tag": "c4x"
+        },
+        "custom_md5": "ba379beff2b690d00126daed2c4f8b14",
+        "displayname": "b4cbbf59-b658-4a85-9dd7-80b5363d494b-en.srt",
+        "filename": "asset-v1:OpenedX+TestCourse+TestX+type@asset+block@b4cbbf59-b658-4a85-9dd7-80b5363d494b-en.srt",
+        "import_path": "b4cbbf59-b658-4a85-9dd7-80b5363d494b-en.srt",
+        "locked": false,
+        "thumbnail_location": null
+    },
+    "bobcat_upload_orig_template.png": {
+        "contentType": "image/png",
+        "content_son": {
+            "category": "asset",
+            "course": "TestCourse",
+            "name": "bobcat_upload_orig_template.png",
+            "org": "OpenedX",
+            "revision": null,
+            "run": "TestX",
+            "tag": "c4x"
+        },
+        "custom_md5": "6d2c3cbd6d66c2bbaf06337d1310fe68",
+        "displayname": "bobcat_upload_orig_template.png",
+        "filename": "asset-v1:OpenedX+TestCourse+TestX+type@asset+block@bobcat_upload_orig_template.png",
+        "import_path": "bobcat_upload_orig_template.png",
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "OpenedX",
+            "TestCourse",
+            "thumbnail",
+            "bobcat_upload_orig_template-png.jpg",
+            null
+        ]
+    },
+    "callout_bg.png": {
+        "contentType": "image/png",
+        "content_son": {
+            "category": "asset",
+            "course": "TestCourse",
+            "name": "callout_bg.png",
+            "org": "OpenedX",
+            "revision": null,
+            "run": "TestX",
+            "tag": "c4x"
+        },
+        "custom_md5": "19802c5c8861a91e278bafddf2325692",
+        "displayname": "callout_bg.png",
+        "filename": "asset-v1:OpenedX+TestCourse+TestX+type@asset+block@callout_bg.png",
+        "import_path": "callout_bg.png",
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "OpenedX",
+            "TestCourse",
+            "thumbnail",
+            "callout_bg-png.jpg",
+            null
+        ]
+    },
+    "choose_library_component.png": {
+        "contentType": "image/png",
+        "content_son": {
+            "category": "asset",
+            "course": "TestCourse",
+            "name": "choose_library_component.png",
+            "org": "OpenedX",
+            "revision": null,
+            "run": "TestX",
+            "tag": "c4x"
+        },
+        "custom_md5": "5f12cc8a3447cf19d90856b0945acbbc",
+        "displayname": "choose_library_component.png",
+        "filename": "asset-v1:OpenedX+TestCourse+TestX+type@asset+block@choose_library_component.png",
+        "import_path": "choose_library_component.png",
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "OpenedX",
+            "TestCourse",
+            "thumbnail",
+            "choose_library_component-png.jpg",
+            null
+        ]
+    },
+    "cm_style_guide_demox.css": {
+        "contentType": "text/css",
+        "content_son": {
+            "category": "asset",
+            "course": "TestCourse",
+            "name": "cm_style_guide_demox.css",
+            "org": "OpenedX",
+            "revision": null,
+            "run": "TestX",
+            "tag": "c4x"
+        },
+        "custom_md5": "911f0d1ac424861100db6c65e2504841",
+        "displayname": "cm_style_guide_demox.css",
+        "filename": "asset-v1:OpenedX+TestCourse+TestX+type@asset+block@cm_style_guide_demox.css",
+        "import_path": "cm_style_guide_demox.css",
+        "locked": false,
+        "thumbnail_location": null
+    },
+    "code_editor_orig.png": {
+        "contentType": "image/png",
+        "content_son": {
+            "category": "asset",
+            "course": "TestCourse",
+            "name": "code_editor_orig.png",
+            "org": "OpenedX",
+            "revision": null,
+            "run": "TestX",
+            "tag": "c4x"
+        },
+        "custom_md5": "f893d8b995ee95a40d43b6c3d7e99819",
+        "displayname": "code_editor_orig.png",
+        "filename": "asset-v1:OpenedX+TestCourse+TestX+type@asset+block@code_editor_orig.png",
+        "import_path": "code_editor_orig.png",
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "OpenedX",
+            "TestCourse",
+            "thumbnail",
+            "code_editor_orig-png.jpg",
+            null
+        ]
+    },
+    "codeboard_demo.png": {
+        "contentType": "image/png",
+        "content_son": {
+            "category": "asset",
+            "course": "TestCourse",
+            "name": "codeboard_demo.png",
+            "org": "OpenedX",
+            "revision": null,
+            "run": "TestX",
+            "tag": "c4x"
+        },
+        "custom_md5": "37836693ec905b47e7a96bfb0ab73d2b",
+        "displayname": "codeboard_demo.png",
+        "filename": "asset-v1:OpenedX+TestCourse+TestX+type@asset+block@codeboard_demo.png",
+        "import_path": "codeboard_demo.png",
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "OpenedX",
+            "TestCourse",
+            "thumbnail",
+            "codeboard_demo-png.jpg",
+            null
+        ]
+    },
+    "codeboard_demo_step3.png": {
+        "contentType": "image/png",
+        "content_son": {
+            "category": "asset",
+            "course": "TestCourse",
+            "name": "codeboard_demo_step3.png",
+            "org": "OpenedX",
+            "revision": null,
+            "run": "TestX",
+            "tag": "c4x"
+        },
+        "custom_md5": "75f1df1656849474239cfc2fbf2dad09",
+        "displayname": "codeboard_demo_step3.png",
+        "filename": "asset-v1:OpenedX+TestCourse+TestX+type@asset+block@codeboard_demo_step3.png",
+        "import_path": "codeboard_demo_step3.png",
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "OpenedX",
+            "TestCourse",
+            "thumbnail",
+            "codeboard_demo_step3-png.jpg",
+            null
+        ]
+    },
+    "cohorts-groups-components.jpeg": {
+        "contentType": "image/jpeg",
+        "content_son": {
+            "category": "asset",
+            "course": "TestCourse",
+            "name": "cohorts-groups-components.jpeg",
+            "org": "OpenedX",
+            "revision": null,
+            "run": "TestX",
+            "tag": "c4x"
+        },
+        "custom_md5": "76fdd8fb5e22836be4a6b4c465972dd0",
+        "displayname": "cohorts-groups-components.jpeg",
+        "filename": "asset-v1:OpenedX+TestCourse+TestX+type@asset+block@cohorts-groups-components.jpeg",
+        "import_path": "cohorts-groups-components.jpeg",
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "OpenedX",
+            "TestCourse",
+            "thumbnail",
+            "cohorts-groups-components-jpeg.jpg",
+            null
+        ]
+    },
+    "cohorts-setup.png": {
+        "contentType": "image/png",
+        "content_son": {
+            "category": "asset",
+            "course": "TestCourse",
+            "name": "cohorts-setup.png",
+            "org": "OpenedX",
+            "revision": null,
+            "run": "TestX",
+            "tag": "c4x"
+        },
+        "custom_md5": "010da67bbdd70700f24883ef94fde75a",
+        "displayname": "cohorts-setup.png",
+        "filename": "asset-v1:OpenedX+TestCourse+TestX+type@asset+block@cohorts-setup.png",
+        "import_path": "cohorts-setup.png",
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "OpenedX",
+            "TestCourse",
+            "thumbnail",
+            "cohorts-setup-png.jpg",
+            null
+        ]
+    },
+    "community-icon.svg": {
+        "contentType": "image/svg+xml",
+        "content_son": {
+            "category": "asset",
+            "course": "TestCourse",
+            "name": "community-icon.svg",
+            "org": "OpenedX",
+            "revision": null,
+            "run": "TestX",
+            "tag": "c4x"
+        },
+        "custom_md5": "60eea06b9b6c271b4163659e7c142329",
+        "displayname": "community-icon.svg",
+        "filename": "asset-v1:OpenedX+TestCourse+TestX+type@asset+block@community-icon.svg",
+        "import_path": "community-icon.svg",
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "OpenedX",
+            "TestCourse",
+            "thumbnail",
+            "community-icon.svg",
+            null
+        ]
+    },
+    "components_orig.png": {
+        "contentType": "image/png",
+        "content_son": {
+            "category": "asset",
+            "course": "TestCourse",
+            "name": "components_orig.png",
+            "org": "OpenedX",
+            "revision": null,
+            "run": "TestX",
+            "tag": "c4x"
+        },
+        "custom_md5": "7df3829367d061fa38614ec09ca98b29",
+        "displayname": "components_orig.png",
+        "filename": "asset-v1:OpenedX+TestCourse+TestX+type@asset+block@components_orig.png",
+        "import_path": "components_orig.png",
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "OpenedX",
+            "TestCourse",
+            "thumbnail",
+            "components_orig-png.jpg",
+            null
+        ]
+    },
+    "content-group-switcher.png": {
+        "contentType": "image/png",
+        "content_son": {
+            "category": "asset",
+            "course": "TestCourse",
+            "name": "content-group-switcher.png",
+            "org": "OpenedX",
+            "revision": null,
+            "run": "TestX",
+            "tag": "c4x"
+        },
+        "custom_md5": "9c60fcb2c8dff6057c772a895a025104",
+        "displayname": "content-group-switcher.png",
+        "filename": "asset-v1:OpenedX+TestCourse+TestX+type@asset+block@content-group-switcher.png",
+        "import_path": "content-group-switcher.png",
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "OpenedX",
+            "TestCourse",
+            "thumbnail",
+            "content-group-switcher-png.jpg",
+            null
+        ]
+    },
+    "course_components.png": {
+        "contentType": "image/png",
+        "content_son": {
+            "category": "asset",
+            "course": "TestCourse",
+            "name": "course_components.png",
+            "org": "OpenedX",
+            "revision": null,
+            "run": "TestX",
+            "tag": "c4x"
+        },
+        "custom_md5": "bc9117b4b9f69c2732ecdbb8c3190619",
+        "displayname": "course_components.png",
+        "filename": "asset-v1:OpenedX+TestCourse+TestX+type@asset+block@course_components.png",
+        "import_path": "course_components.png",
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "OpenedX",
+            "TestCourse",
+            "thumbnail",
+            "course_components-png.jpg",
+            null
+        ]
+    },
+    "course_outline.png": {
+        "contentType": "image/png",
+        "content_son": {
+            "category": "asset",
+            "course": "TestCourse",
+            "name": "course_outline.png",
+            "org": "OpenedX",
+            "revision": null,
+            "run": "TestX",
+            "tag": "c4x"
+        },
+        "custom_md5": "b78a34b29722c3c50d6221b1a062d829",
+        "displayname": "course_outline.png",
+        "filename": "asset-v1:OpenedX+TestCourse+TestX+type@asset+block@course_outline.png",
+        "import_path": "course_outline.png",
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "OpenedX",
+            "TestCourse",
+            "thumbnail",
+            "course_outline-png.jpg",
+            null
+        ]
+    },
+    "course_structure_1.png": {
+        "contentType": "image/png",
+        "content_son": {
+            "category": "asset",
+            "course": "TestCourse",
+            "name": "course_structure_1.png",
+            "org": "OpenedX",
+            "revision": null,
+            "run": "TestX",
+            "tag": "c4x"
+        },
+        "custom_md5": "4104dee0143920bb6453a04e06ae9a85",
+        "displayname": "course_structure_1.png",
+        "filename": "asset-v1:OpenedX+TestCourse+TestX+type@asset+block@course_structure_1.png",
+        "import_path": "course_structure_1.png",
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "OpenedX",
+            "TestCourse",
+            "thumbnail",
+            "course_structure_1-png.jpg",
+            null
+        ]
+    },
+    "course_structure_2.png": {
+        "contentType": "image/png",
+        "content_son": {
+            "category": "asset",
+            "course": "TestCourse",
+            "name": "course_structure_2.png",
+            "org": "OpenedX",
+            "revision": null,
+            "run": "TestX",
+            "tag": "c4x"
+        },
+        "custom_md5": "af196c410439e524a32a041919e77820",
+        "displayname": "course_structure_2.png",
+        "filename": "asset-v1:OpenedX+TestCourse+TestX+type@asset+block@course_structure_2.png",
+        "import_path": "course_structure_2.png",
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "OpenedX",
+            "TestCourse",
+            "thumbnail",
+            "course_structure_2-png.jpg",
+            null
+        ]
+    },
+    "course_structure_3.png": {
+        "contentType": "image/png",
+        "content_son": {
+            "category": "asset",
+            "course": "TestCourse",
+            "name": "course_structure_3.png",
+            "org": "OpenedX",
+            "revision": null,
+            "run": "TestX",
+            "tag": "c4x"
+        },
+        "custom_md5": "d9502295c646121972b9967df6f6b32f",
+        "displayname": "course_structure_3.png",
+        "filename": "asset-v1:OpenedX+TestCourse+TestX+type@asset+block@course_structure_3.png",
+        "import_path": "course_structure_3.png",
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "OpenedX",
+            "TestCourse",
+            "thumbnail",
+            "course_structure_3-png.jpg",
+            null
+        ]
+    },
+    "course_structure_full.png": {
+        "contentType": "image/png",
+        "content_son": {
+            "category": "asset",
+            "course": "TestCourse",
+            "name": "course_structure_full.png",
+            "org": "OpenedX",
+            "revision": null,
+            "run": "TestX",
+            "tag": "c4x"
+        },
+        "custom_md5": "09b08db35fb95b5b79ec8a6038a84d77",
+        "displayname": "course_structure_full.png",
+        "filename": "asset-v1:OpenedX+TestCourse+TestX+type@asset+block@course_structure_full.png",
+        "import_path": "course_structure_full.png",
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "OpenedX",
+            "TestCourse",
+            "thumbnail",
+            "course_structure_full-png.jpg",
+            null
+        ]
+    },
+    "database-icon.svg": {
+        "contentType": "image/svg+xml",
+        "content_son": {
+            "category": "asset",
+            "course": "TestCourse",
+            "name": "database-icon.svg",
+            "org": "OpenedX",
+            "revision": null,
+            "run": "TestX",
+            "tag": "c4x"
+        },
+        "custom_md5": "35afe40cb2e5f6cc051b7aa7a363d9b0",
+        "displayname": "database-icon.svg",
+        "filename": "asset-v1:OpenedX+TestCourse+TestX+type@asset+block@database-icon.svg",
+        "import_path": "database-icon.svg",
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "OpenedX",
+            "TestCourse",
+            "thumbnail",
+            "database-icon.svg",
+            null
+        ]
+    },
+    "demox_js.js": {
+        "contentType": "text/javascript",
+        "content_son": {
+            "category": "asset",
+            "course": "TestCourse",
+            "name": "demox_js.js",
+            "org": "OpenedX",
+            "revision": null,
+            "run": "TestX",
+            "tag": "c4x"
+        },
+        "custom_md5": "c48feb4d8d4785efe8cb2e61611f564c",
+        "displayname": "demox_js.js",
+        "filename": "asset-v1:OpenedX+TestCourse+TestX+type@asset+block@demox_js.js",
+        "import_path": "demox_js.js",
+        "locked": false,
+        "thumbnail_location": null
+    },
+    "discussion-admin-add.png": {
+        "contentType": "image/png",
+        "content_son": {
+            "category": "asset",
+            "course": "TestCourse",
+            "name": "discussion-admin-add.png",
+            "org": "OpenedX",
+            "revision": null,
+            "run": "TestX",
+            "tag": "c4x"
+        },
+        "custom_md5": "39230aaab68c81fc61a952a4a5337ac4",
+        "displayname": "discussion-admin-add.png",
+        "filename": "asset-v1:OpenedX+TestCourse+TestX+type@asset+block@discussion-admin-add.png",
+        "import_path": "discussion-admin-add.png",
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "OpenedX",
+            "TestCourse",
+            "thumbnail",
+            "discussion-admin-add-png.jpg",
+            null
+        ]
+    },
+    "divide-by-cohort.png": {
+        "contentType": "image/png",
+        "content_son": {
+            "category": "asset",
+            "course": "TestCourse",
+            "name": "divide-by-cohort.png",
+            "org": "OpenedX",
+            "revision": null,
+            "run": "TestX",
+            "tag": "c4x"
+        },
+        "custom_md5": "6ad8a227412cc52607bddac842bbceff",
+        "displayname": "divide-by-cohort.png",
+        "filename": "asset-v1:OpenedX+TestCourse+TestX+type@asset+block@divide-by-cohort.png",
+        "import_path": "divide-by-cohort.png",
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "OpenedX",
+            "TestCourse",
+            "thumbnail",
+            "divide-by-cohort-png.jpg",
+            null
+        ]
+    },
+    "documentation_icon.svg": {
+        "contentType": "image/svg+xml",
+        "content_son": {
+            "category": "asset",
+            "course": "TestCourse",
+            "name": "documentation_icon.svg",
+            "org": "OpenedX",
+            "revision": null,
+            "run": "TestX",
+            "tag": "c4x"
+        },
+        "custom_md5": "776590f9b3f01eac908d8ee69f8c2479",
+        "displayname": "documentation icon.svg",
+        "filename": "asset-v1:OpenedX+TestCourse+TestX+type@asset+block@documentation_icon.svg",
+        "import_path": "documentation icon.svg",
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "OpenedX",
+            "TestCourse",
+            "thumbnail",
+            "documentation_icon.svg",
+            null
+        ]
+    },
+    "download-icon.svg": {
+        "contentType": "image/svg+xml",
+        "content_son": {
+            "category": "asset",
+            "course": "TestCourse",
+            "name": "download-icon.svg",
+            "org": "OpenedX",
+            "revision": null,
+            "run": "TestX",
+            "tag": "c4x"
+        },
+        "custom_md5": "13554f880593256f86b7dd67e23d510f",
+        "displayname": "download-icon.svg",
+        "filename": "asset-v1:OpenedX+TestCourse+TestX+type@asset+block@download-icon.svg",
+        "import_path": "download-icon.svg",
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "OpenedX",
+            "TestCourse",
+            "thumbnail",
+            "download-icon.svg",
+            null
+        ]
+    },
+    "draft.png": {
+        "contentType": "image/png",
+        "content_son": {
+            "category": "asset",
+            "course": "TestCourse",
+            "name": "draft.png",
+            "org": "OpenedX",
+            "revision": null,
+            "run": "TestX",
+            "tag": "c4x"
+        },
+        "custom_md5": "735698e3d091c258517f99e6e4fbb337",
+        "displayname": "draft.png",
+        "filename": "asset-v1:OpenedX+TestCourse+TestX+type@asset+block@draft.png",
+        "import_path": "draft.png",
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "OpenedX",
+            "TestCourse",
+            "thumbnail",
+            "draft-png.jpg",
+            null
+        ]
+    },
+    "edX_logo.png": {
+        "contentType": "image/png",
+        "content_son": {
+            "category": "asset",
+            "course": "TestCourse",
+            "name": "edX_logo.png",
+            "org": "OpenedX",
+            "revision": null,
+            "run": "TestX",
+            "tag": "c4x"
+        },
+        "custom_md5": "10cbbe0681a53ecc47c169fb330a2df4",
+        "displayname": "edX_logo.png",
+        "filename": "asset-v1:OpenedX+TestCourse+TestX+type@asset+block@edX_logo.png",
+        "import_path": "edX_logo.png",
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "OpenedX",
+            "TestCourse",
+            "thumbnail",
+            "edX_logo-png.jpg",
+            null
+        ]
+    },
+    "fdfa686f-8b70-4437-a490-0459cc9f1f2a-en.srt": {
+        "contentType": "application/octet-stream",
+        "content_son": {
+            "category": "asset",
+            "course": "TestCourse",
+            "name": "fdfa686f-8b70-4437-a490-0459cc9f1f2a-en.srt",
+            "org": "OpenedX",
+            "revision": null,
+            "run": "TestX",
+            "tag": "c4x"
+        },
+        "custom_md5": "b816d9231fe9ddd753cddbf7c42f7a2e",
+        "displayname": "fdfa686f-8b70-4437-a490-0459cc9f1f2a-en.srt",
+        "filename": "asset-v1:OpenedX+TestCourse+TestX+type@asset+block@fdfa686f-8b70-4437-a490-0459cc9f1f2a-en.srt",
+        "import_path": "fdfa686f-8b70-4437-a490-0459cc9f1f2a-en.srt",
+        "locked": false,
+        "thumbnail_location": null
+    },
+    "feedback.js": {
+        "contentType": "text/javascript",
+        "content_son": {
+            "category": "asset",
+            "course": "TestCourse",
+            "name": "feedback.js",
+            "org": "OpenedX",
+            "revision": null,
+            "run": "TestX",
+            "tag": "c4x"
+        },
+        "custom_md5": "613ded6aae5267f4877d98cb8539cfae",
+        "displayname": "feedback.js",
+        "filename": "asset-v1:OpenedX+TestCourse+TestX+type@asset+block@feedback.js",
+        "import_path": "feedback.js",
+        "locked": false,
+        "thumbnail_location": null
+    },
+    "grade_submissions.png": {
+        "contentType": "image/png",
+        "content_son": {
+            "category": "asset",
+            "course": "TestCourse",
+            "name": "grade_submissions.png",
+            "org": "OpenedX",
+            "revision": null,
+            "run": "TestX",
+            "tag": "c4x"
+        },
+        "custom_md5": "05d9257bc2bc82af2beb33e9fdfbbd2e",
+        "displayname": "grade_submissions.png",
+        "filename": "asset-v1:OpenedX+TestCourse+TestX+type@asset+block@grade_submissions.png",
+        "import_path": "grade_submissions.png",
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "OpenedX",
+            "TestCourse",
+            "thumbnail",
+            "grade_submissions-png.jpg",
+            null
+        ]
+    },
+    "gradient-triangle.svg": {
+        "contentType": "image/svg+xml",
+        "content_son": {
+            "category": "asset",
+            "course": "TestCourse",
+            "name": "gradient-triangle.svg",
+            "org": "OpenedX",
+            "revision": null,
+            "run": "TestX",
+            "tag": "c4x"
+        },
+        "custom_md5": "e3585e5302102ab200fe828353fc6e59",
+        "displayname": "gradient-triangle.svg",
+        "filename": "asset-v1:OpenedX+TestCourse+TestX+type@asset+block@gradient-triangle.svg",
+        "import_path": "gradient-triangle.svg",
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "OpenedX",
+            "TestCourse",
+            "thumbnail",
+            "gradient-triangle.svg",
+            null
+        ]
+    },
+    "grand_piano_freepik.jpeg": {
+        "contentType": "image/jpeg",
+        "content_son": {
+            "category": "asset",
+            "course": "TestCourse",
+            "name": "grand_piano_freepik.jpeg",
+            "org": "OpenedX",
+            "revision": null,
+            "run": "TestX",
+            "tag": "c4x"
+        },
+        "custom_md5": "90ae0d7c28ea5a5fac9097de74e1098c",
+        "displayname": "grand_piano_freepik.jpeg",
+        "filename": "asset-v1:OpenedX+TestCourse+TestX+type@asset+block@grand_piano_freepik.jpeg",
+        "import_path": "grand_piano_freepik.jpeg",
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "OpenedX",
+            "TestCourse",
+            "thumbnail",
+            "grand_piano_freepik-jpeg.jpg",
+            null
+        ]
+    },
+    "html_button_orig.png": {
+        "contentType": "image/png",
+        "content_son": {
+            "category": "asset",
+            "course": "TestCourse",
+            "name": "html_button_orig.png",
+            "org": "OpenedX",
+            "revision": null,
+            "run": "TestX",
+            "tag": "c4x"
+        },
+        "custom_md5": "b4f78ccd98e8c10458aae69eafb1df6f",
+        "displayname": "html_button_orig.png",
+        "filename": "asset-v1:OpenedX+TestCourse+TestX+type@asset+block@html_button_orig.png",
+        "import_path": "html_button_orig.png",
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "OpenedX",
+            "TestCourse",
+            "thumbnail",
+            "html_button_orig-png.jpg",
+            null
+        ]
+    },
+    "hx.css": {
+        "contentType": "text/css",
+        "content_son": {
+            "category": "asset",
+            "course": "TestCourse",
+            "name": "hx.css",
+            "org": "OpenedX",
+            "revision": null,
+            "run": "TestX",
+            "tag": "c4x"
+        },
+        "custom_md5": "6eec2b30b3e1ba339ac418c5ebe54718",
+        "displayname": "hx.css",
+        "filename": "asset-v1:OpenedX+TestCourse+TestX+type@asset+block@hx.css",
+        "import_path": "hx.css",
+        "locked": false,
+        "thumbnail_location": null
+    },
+    "hx.js": {
+        "contentType": "text/javascript",
+        "content_son": {
+            "category": "asset",
+            "course": "TestCourse",
+            "name": "hx.js",
+            "org": "OpenedX",
+            "revision": null,
+            "run": "TestX",
+            "tag": "c4x"
+        },
+        "custom_md5": "0bde7119a2365611705ceb53e36fc990",
+        "displayname": "hx.js",
+        "filename": "asset-v1:OpenedX+TestCourse+TestX+type@asset+block@hx.js",
+        "import_path": "hx.js",
+        "locked": false,
+        "thumbnail_location": null
+    },
+    "hxGlobalOptions.js": {
+        "contentType": "text/javascript",
+        "content_son": {
+            "category": "asset",
+            "course": "TestCourse",
+            "name": "hxGlobalOptions.js",
+            "org": "OpenedX",
+            "revision": null,
+            "run": "TestX",
+            "tag": "c4x"
+        },
+        "custom_md5": "996f45db40de18028271fbda0f673b23",
+        "displayname": "hxGlobalOptions.js",
+        "filename": "asset-v1:OpenedX+TestCourse+TestX+type@asset+block@hxGlobalOptions.js",
+        "import_path": "hxGlobalOptions.js",
+        "locked": false,
+        "thumbnail_location": null
+    },
+    "imageMapResizer.min.js": {
+        "contentType": "text/javascript",
+        "content_son": {
+            "category": "asset",
+            "course": "TestCourse",
+            "name": "imageMapResizer.min.js",
+            "org": "OpenedX",
+            "revision": null,
+            "run": "TestX",
+            "tag": "c4x"
+        },
+        "custom_md5": "58189be0c6221e414ce878fc884a0d11",
+        "displayname": "imageMapResizer.min.js",
+        "filename": "asset-v1:OpenedX+TestCourse+TestX+type@asset+block@imageMapResizer.min.js",
+        "import_path": "imageMapResizer.min.js",
+        "locked": false,
+        "thumbnail_location": null
+    },
+    "images_logic_gate_image.png": {
+        "contentType": "image/png",
+        "content_son": {
+            "category": "asset",
+            "course": "TestCourse",
+            "name": "images_logic_gate_image.png",
+            "org": "OpenedX",
+            "revision": null,
+            "run": "TestX",
+            "tag": "c4x"
+        },
+        "custom_md5": "e51463be4f12c787fb15dbd36f5018a8",
+        "displayname": "images_logic_gate_image.png",
+        "filename": "asset-v1:OpenedX+TestCourse+TestX+type@asset+block@images_logic_gate_image.png",
+        "import_path": "images_logic_gate_image.png",
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "OpenedX",
+            "TestCourse",
+            "thumbnail",
+            "images_logic_gate_image-png.jpg",
+            null
+        ]
+    },
+    "images_logic_gate_sln.png": {
+        "contentType": "image/png",
+        "content_son": {
+            "category": "asset",
+            "course": "TestCourse",
+            "name": "images_logic_gate_sln.png",
+            "org": "OpenedX",
+            "revision": null,
+            "run": "TestX",
+            "tag": "c4x"
+        },
+        "custom_md5": "8bfe2d86a462f93654d48b2319aa022e",
+        "displayname": "images_logic_gate_sln.png",
+        "filename": "asset-v1:OpenedX+TestCourse+TestX+type@asset+block@images_logic_gate_sln.png",
+        "import_path": "images_logic_gate_sln.png",
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "OpenedX",
+            "TestCourse",
+            "thumbnail",
+            "images_logic_gate_sln-png.jpg",
+            null
+        ]
+    },
+    "instructor_dashboard_orig.png": {
+        "contentType": "image/png",
+        "content_son": {
+            "category": "asset",
+            "course": "TestCourse",
+            "name": "instructor_dashboard_orig.png",
+            "org": "OpenedX",
+            "revision": null,
+            "run": "TestX",
+            "tag": "c4x"
+        },
+        "custom_md5": "b7780aa49ac64d4379cfe52a32830bb8",
+        "displayname": "instructor_dashboard_orig.png",
+        "filename": "asset-v1:OpenedX+TestCourse+TestX+type@asset+block@instructor_dashboard_orig.png",
+        "import_path": "instructor_dashboard_orig.png",
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "OpenedX",
+            "TestCourse",
+            "thumbnail",
+            "instructor_dashboard_orig-png.jpg",
+            null
+        ]
+    },
+    "intro_accessible.js": {
+        "contentType": "text/javascript",
+        "content_son": {
+            "category": "asset",
+            "course": "TestCourse",
+            "name": "intro_accessible.js",
+            "org": "OpenedX",
+            "revision": null,
+            "run": "TestX",
+            "tag": "c4x"
+        },
+        "custom_md5": "cbaa959bb181e2e5937cbd7e2184a289",
+        "displayname": "intro_accessible.js",
+        "filename": "asset-v1:OpenedX+TestCourse+TestX+type@asset+block@intro_accessible.js",
+        "import_path": "intro_accessible.js",
+        "locked": false,
+        "thumbnail_location": null
+    },
+    "introjs.css": {
+        "contentType": "text/css",
+        "content_son": {
+            "category": "asset",
+            "course": "TestCourse",
+            "name": "introjs.css",
+            "org": "OpenedX",
+            "revision": null,
+            "run": "TestX",
+            "tag": "c4x"
+        },
+        "custom_md5": "fcfb73dea523e5fdb26133e344e869b2",
+        "displayname": "introjs.css",
+        "filename": "asset-v1:OpenedX+TestCourse+TestX+type@asset+block@introjs.css",
+        "import_path": "introjs.css",
+        "locked": false,
+        "thumbnail_location": null
+    },
+    "learning_sequence_orig.png": {
+        "contentType": "image/png",
+        "content_son": {
+            "category": "asset",
+            "course": "TestCourse",
+            "name": "learning_sequence_orig.png",
+            "org": "OpenedX",
+            "revision": null,
+            "run": "TestX",
+            "tag": "c4x"
+        },
+        "custom_md5": "e699b2f0d0d2e5b34aaaa3f5372a1d85",
+        "displayname": "learning_sequence_orig.png",
+        "filename": "asset-v1:OpenedX+TestCourse+TestX+type@asset+block@learning_sequence_orig.png",
+        "import_path": "learning_sequence_orig.png",
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "OpenedX",
+            "TestCourse",
+            "thumbnail",
+            "learning_sequence_orig-png.jpg",
+            null
+        ]
+    },
+    "library_import.png": {
+        "contentType": "image/png",
+        "content_son": {
+            "category": "asset",
+            "course": "TestCourse",
+            "name": "library_import.png",
+            "org": "OpenedX",
+            "revision": null,
+            "run": "TestX",
+            "tag": "c4x"
+        },
+        "custom_md5": "72a10c915b05ed9b9ce808c224fad6fd",
+        "displayname": "library_import.png",
+        "filename": "asset-v1:OpenedX+TestCourse+TestX+type@asset+block@library_import.png",
+        "import_path": "library_import.png",
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "OpenedX",
+            "TestCourse",
+            "thumbnail",
+            "library_import-png.jpg",
+            null
+        ]
+    },
+    "lightbulb-opacity-5.svg": {
+        "contentType": "image/svg+xml",
+        "content_son": {
+            "category": "asset",
+            "course": "TestCourse",
+            "name": "lightbulb-opacity-5.svg",
+            "org": "OpenedX",
+            "revision": null,
+            "run": "TestX",
+            "tag": "c4x"
+        },
+        "custom_md5": "1cb949d33c590d908aa72767e49c37ec",
+        "displayname": "lightbulb-opacity-5.svg",
+        "filename": "asset-v1:OpenedX+TestCourse+TestX+type@asset+block@lightbulb-opacity-5.svg",
+        "import_path": "lightbulb-opacity-5.svg",
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "OpenedX",
+            "TestCourse",
+            "thumbnail",
+            "lightbulb-opacity-5.svg",
+            null
+        ]
+    },
+    "new_library.png": {
+        "contentType": "image/png",
+        "content_son": {
+            "category": "asset",
+            "course": "TestCourse",
+            "name": "new_library.png",
+            "org": "OpenedX",
+            "revision": null,
+            "run": "TestX",
+            "tag": "c4x"
+        },
+        "custom_md5": "6535d7c3cd6a30712f422682c05f3154",
+        "displayname": "new_library.png",
+        "filename": "asset-v1:OpenedX+TestCourse+TestX+type@asset+block@new_library.png",
+        "import_path": "new_library.png",
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "OpenedX",
+            "TestCourse",
+            "thumbnail",
+            "new_library-png.jpg",
+            null
+        ]
+    },
+    "ohms_law.html": {
+        "contentType": "text/html",
+        "content_son": {
+            "category": "asset",
+            "course": "TestCourse",
+            "name": "ohms_law.html",
+            "org": "OpenedX",
+            "revision": null,
+            "run": "TestX",
+            "tag": "c4x"
+        },
+        "custom_md5": "93c8430a48014ade36e6dd3ed68aa2ee",
+        "displayname": "ohms_law.html",
+        "filename": "asset-v1:OpenedX+TestCourse+TestX+type@asset+block@ohms_law.html",
+        "import_path": "ohms_law.html",
+        "locked": false,
+        "thumbnail_location": null
+    },
+    "open-edx-celebratory-icon.png": {
+        "contentType": "image/png",
+        "content_son": {
+            "category": "asset",
+            "course": "TestCourse",
+            "name": "open-edx-celebratory-icon.png",
+            "org": "OpenedX",
+            "revision": null,
+            "run": "TestX",
+            "tag": "c4x"
+        },
+        "custom_md5": "3355943315fb9870b07e2106e880dcfe",
+        "displayname": "open-edx-celebratory-icon.png",
+        "filename": "asset-v1:OpenedX+TestCourse+TestX+type@asset+block@open-edx-celebratory-icon.png",
+        "import_path": "open-edx-celebratory-icon.png",
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "OpenedX",
+            "TestCourse",
+            "thumbnail",
+            "open-edx-celebratory-icon-png.jpg",
+            null
+        ]
+    },
+    "open-edx-reach-slide.png": {
+        "contentType": "image/png",
+        "content_son": {
+            "category": "asset",
+            "course": "TestCourse",
+            "name": "open-edx-reach-slide.png",
+            "org": "OpenedX",
+            "revision": null,
+            "run": "TestX",
+            "tag": "c4x"
+        },
+        "custom_md5": "a07d94ce417b3ed91808d95dfec11ce5",
+        "displayname": "open-edx-reach-slide.png",
+        "filename": "asset-v1:OpenedX+TestCourse+TestX+type@asset+block@open-edx-reach-slide.png",
+        "import_path": "open-edx-reach-slide.png",
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "OpenedX",
+            "TestCourse",
+            "thumbnail",
+            "open-edx-reach-slide-png.jpg",
+            null
+        ]
+    },
+    "open_source_guy.svg": {
+        "contentType": "image/svg+xml",
+        "content_son": {
+            "category": "asset",
+            "course": "TestCourse",
+            "name": "open_source_guy.svg",
+            "org": "OpenedX",
+            "revision": null,
+            "run": "TestX",
+            "tag": "c4x"
+        },
+        "custom_md5": "f00f4ec3fd872953788860c013db9742",
+        "displayname": "open source guy.svg",
+        "filename": "asset-v1:OpenedX+TestCourse+TestX+type@asset+block@open_source_guy.svg",
+        "import_path": "open source guy.svg",
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "OpenedX",
+            "TestCourse",
+            "thumbnail",
+            "open_source_guy.svg",
+            null
+        ]
+    },
+    "openedx_logo.png": {
+        "contentType": "image/png",
+        "content_son": {
+            "category": "asset",
+            "course": "TestCourse",
+            "name": "openedx_logo.png",
+            "org": "OpenedX",
+            "revision": null,
+            "run": "TestX",
+            "tag": "c4x"
+        },
+        "custom_md5": "5d687cf077a4b5d4ad34432d0d829b84",
+        "displayname": "openedx_logo.png",
+        "filename": "asset-v1:OpenedX+TestCourse+TestX+type@asset+block@openedx_logo.png",
+        "import_path": "openedx_logo.png",
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "OpenedX",
+            "TestCourse",
+            "thumbnail",
+            "openedx_logo-png.jpg",
+            null
+        ]
+    },
+    "outline.png": {
+        "contentType": "image/png",
+        "content_son": {
+            "category": "asset",
+            "course": "TestCourse",
+            "name": "outline.png",
+            "org": "OpenedX",
+            "revision": null,
+            "run": "TestX",
+            "tag": "c4x"
+        },
+        "custom_md5": "0ef57042beceeebf1daa67beb887c0e4",
+        "displayname": "outline.png",
+        "filename": "asset-v1:OpenedX+TestCourse+TestX+type@asset+block@outline.png",
+        "import_path": "outline.png",
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "OpenedX",
+            "TestCourse",
+            "thumbnail",
+            "outline-png.jpg",
+            null
+        ]
+    },
+    "prerequisite-settings.png": {
+        "contentType": "image/png",
+        "content_son": {
+            "category": "asset",
+            "course": "TestCourse",
+            "name": "prerequisite-settings.png",
+            "org": "OpenedX",
+            "revision": null,
+            "run": "TestX",
+            "tag": "c4x"
+        },
+        "custom_md5": "aa59aa39160fa24f5cb49e6fbf308cb0",
+        "displayname": "prerequisite-settings.png",
+        "filename": "asset-v1:OpenedX+TestCourse+TestX+type@asset+block@prerequisite-settings.png",
+        "import_path": "prerequisite-settings.png",
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "OpenedX",
+            "TestCourse",
+            "thumbnail",
+            "prerequisite-settings-png.jpg",
+            null
+        ]
+    },
+    "prerequisite.png": {
+        "contentType": "image/png",
+        "content_son": {
+            "category": "asset",
+            "course": "TestCourse",
+            "name": "prerequisite.png",
+            "org": "OpenedX",
+            "revision": null,
+            "run": "TestX",
+            "tag": "c4x"
+        },
+        "custom_md5": "7bd812d7ec1a31f8df74e32428fff668",
+        "displayname": "prerequisite.png",
+        "filename": "asset-v1:OpenedX+TestCourse+TestX+type@asset+block@prerequisite.png",
+        "import_path": "prerequisite.png",
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "OpenedX",
+            "TestCourse",
+            "thumbnail",
+            "prerequisite-png.jpg",
+            null
+        ]
+    },
+    "prism.css": {
+        "contentType": "text/css",
+        "content_son": {
+            "category": "asset",
+            "course": "TestCourse",
+            "name": "prism.css",
+            "org": "OpenedX",
+            "revision": null,
+            "run": "TestX",
+            "tag": "c4x"
+        },
+        "custom_md5": "06a751e574b6faacd398c39a72fc127f",
+        "displayname": "prism.css",
+        "filename": "asset-v1:OpenedX+TestCourse+TestX+type@asset+block@prism.css",
+        "import_path": "prism.css",
+        "locked": false,
+        "thumbnail_location": null
+    },
+    "prism.js": {
+        "contentType": "text/javascript",
+        "content_son": {
+            "category": "asset",
+            "course": "TestCourse",
+            "name": "prism.js",
+            "org": "OpenedX",
+            "revision": null,
+            "run": "TestX",
+            "tag": "c4x"
+        },
+        "custom_md5": "2eab2091cb8852eadc2bb481ed2e4dc6",
+        "displayname": "prism.js",
+        "filename": "asset-v1:OpenedX+TestCourse+TestX+type@asset+block@prism.js",
+        "import_path": "prism.js",
+        "locked": false,
+        "thumbnail_location": null
+    },
+    "progress_page.png": {
+        "contentType": "image/png",
+        "content_son": {
+            "category": "asset",
+            "course": "TestCourse",
+            "name": "progress_page.png",
+            "org": "OpenedX",
+            "revision": null,
+            "run": "TestX",
+            "tag": "c4x"
+        },
+        "custom_md5": "22cdfc41c5b61007c08b094c0a099f4d",
+        "displayname": "progress_page.png",
+        "filename": "asset-v1:OpenedX+TestCourse+TestX+type@asset+block@progress_page.png",
+        "import_path": "progress_page.png",
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "OpenedX",
+            "TestCourse",
+            "thumbnail",
+            "progress_page-png.jpg",
+            null
+        ]
+    },
+    "protein_sln.png": {
+        "contentType": "image/png",
+        "content_son": {
+            "category": "asset",
+            "course": "TestCourse",
+            "name": "protein_sln.png",
+            "org": "OpenedX",
+            "revision": null,
+            "run": "TestX",
+            "tag": "c4x"
+        },
+        "custom_md5": "f51b73bcddb8679f223a060ed6a5dc88",
+        "displayname": "protein_sln.png",
+        "filename": "asset-v1:OpenedX+TestCourse+TestX+type@asset+block@protein_sln.png",
+        "import_path": "protein_sln.png",
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "OpenedX",
+            "TestCourse",
+            "thumbnail",
+            "protein_sln-png.jpg",
+            null
+        ]
+    },
+    "python_lib.zip": {
+        "contentType": "application/zip",
+        "content_son": {
+            "category": "asset",
+            "course": "TestCourse",
+            "name": "python_lib.zip",
+            "org": "OpenedX",
+            "revision": null,
+            "run": "TestX",
+            "tag": "c4x"
+        },
+        "custom_md5": "0c180aaecfc03e7428fcba519346f22c",
+        "displayname": "python_lib.zip",
+        "filename": "asset-v1:OpenedX+TestCourse+TestX+type@asset+block@python_lib.zip",
+        "import_path": "python_lib.zip",
+        "locked": false,
+        "thumbnail_location": null
+    },
+    "quote-left.png": {
+        "contentType": "image/png",
+        "content_son": {
+            "category": "asset",
+            "course": "TestCourse",
+            "name": "quote-left.png",
+            "org": "OpenedX",
+            "revision": null,
+            "run": "TestX",
+            "tag": "c4x"
+        },
+        "custom_md5": "a685317e7ab2bbf5ecdea3485f90f1f9",
+        "displayname": "quote-left.png",
+        "filename": "asset-v1:OpenedX+TestCourse+TestX+type@asset+block@quote-left.png",
+        "import_path": "quote-left.png",
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "OpenedX",
+            "TestCourse",
+            "thumbnail",
+            "quote-left-png.jpg",
+            null
+        ]
+    },
+    "quote-right.png": {
+        "contentType": "image/png",
+        "content_son": {
+            "category": "asset",
+            "course": "TestCourse",
+            "name": "quote-right.png",
+            "org": "OpenedX",
+            "revision": null,
+            "run": "TestX",
+            "tag": "c4x"
+        },
+        "custom_md5": "96aa7b53a1df5a249f5a4260a5236640",
+        "displayname": "quote-right.png",
+        "filename": "asset-v1:OpenedX+TestCourse+TestX+type@asset+block@quote-right.png",
+        "import_path": "quote-right.png",
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "OpenedX",
+            "TestCourse",
+            "thumbnail",
+            "quote-right-png.jpg",
+            null
+        ]
+    },
+    "rabbit_gif_canva.gif": {
+        "contentType": "image/gif",
+        "content_son": {
+            "category": "asset",
+            "course": "TestCourse",
+            "name": "rabbit_gif_canva.gif",
+            "org": "OpenedX",
+            "revision": null,
+            "run": "TestX",
+            "tag": "c4x"
+        },
+        "custom_md5": "8b8000f031140d41319b45a248565f33",
+        "displayname": "rabbit_gif_canva.gif",
+        "filename": "asset-v1:OpenedX+TestCourse+TestX+type@asset+block@rabbit_gif_canva.gif",
+        "import_path": "rabbit_gif_canva.gif",
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "OpenedX",
+            "TestCourse",
+            "thumbnail",
+            "rabbit_gif_canva-gif.jpg",
+            null
+        ]
+    },
+    "raw.png": {
+        "contentType": "image/png",
+        "content_son": {
+            "category": "asset",
+            "course": "TestCourse",
+            "name": "raw.png",
+            "org": "OpenedX",
+            "revision": null,
+            "run": "TestX",
+            "tag": "c4x"
+        },
+        "custom_md5": "3f10bb9491f79486a7cd996d2d941a98",
+        "displayname": "raw.png",
+        "filename": "asset-v1:OpenedX+TestCourse+TestX+type@asset+block@raw.png",
+        "import_path": "raw.png",
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "OpenedX",
+            "TestCourse",
+            "thumbnail",
+            "raw-png.jpg",
+            null
+        ]
+    },
+    "raw_html_orig.png": {
+        "contentType": "image/png",
+        "content_son": {
+            "category": "asset",
+            "course": "TestCourse",
+            "name": "raw_html_orig.png",
+            "org": "OpenedX",
+            "revision": null,
+            "run": "TestX",
+            "tag": "c4x"
+        },
+        "custom_md5": "f5f07208dca9ea22e6146ad4f2d73585",
+        "displayname": "raw_html_orig.png",
+        "filename": "asset-v1:OpenedX+TestCourse+TestX+type@asset+block@raw_html_orig.png",
+        "import_path": "raw_html_orig.png",
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "OpenedX",
+            "TestCourse",
+            "thumbnail",
+            "raw_html_orig-png.jpg",
+            null
+        ]
+    },
+    "rich_text_orig_with_template.png": {
+        "contentType": "image/png",
+        "content_son": {
+            "category": "asset",
+            "course": "TestCourse",
+            "name": "rich_text_orig_with_template.png",
+            "org": "OpenedX",
+            "revision": null,
+            "run": "TestX",
+            "tag": "c4x"
+        },
+        "custom_md5": "1cfdbd5b8c4c8accb7266f7483dd9fdc",
+        "displayname": "rich_text_orig_with_template.png",
+        "filename": "asset-v1:OpenedX+TestCourse+TestX+type@asset+block@rich_text_orig_with_template.png",
+        "import_path": "rich_text_orig_with_template.png",
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "OpenedX",
+            "TestCourse",
+            "thumbnail",
+            "rich_text_orig_with_template-png.jpg",
+            null
+        ]
+    },
+    "romeo_juliet_commons.jpeg": {
+        "contentType": "image/jpeg",
+        "content_son": {
+            "category": "asset",
+            "course": "TestCourse",
+            "name": "romeo_juliet_commons.jpeg",
+            "org": "OpenedX",
+            "revision": null,
+            "run": "TestX",
+            "tag": "c4x"
+        },
+        "custom_md5": "5a24c6b3647347e9e0942ac8126f4b1f",
+        "displayname": "romeo_juliet_commons.jpeg",
+        "filename": "asset-v1:OpenedX+TestCourse+TestX+type@asset+block@romeo_juliet_commons.jpeg",
+        "import_path": "romeo_juliet_commons.jpeg",
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "OpenedX",
+            "TestCourse",
+            "thumbnail",
+            "romeo_juliet_commons-jpeg.jpg",
+            null
+        ]
+    },
+    "sahara_desert_pexels.jpeg": {
+        "contentType": "image/jpeg",
+        "content_son": {
+            "category": "asset",
+            "course": "TestCourse",
+            "name": "sahara_desert_pexels.jpeg",
+            "org": "OpenedX",
+            "revision": null,
+            "run": "TestX",
+            "tag": "c4x"
+        },
+        "custom_md5": "185d93d095281632732b428db5c8ed35",
+        "displayname": "sahara_desert_pexels.jpeg",
+        "filename": "asset-v1:OpenedX+TestCourse+TestX+type@asset+block@sahara_desert_pexels.jpeg",
+        "import_path": "sahara_desert_pexels.jpeg",
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "OpenedX",
+            "TestCourse",
+            "thumbnail",
+            "sahara_desert_pexels-jpeg.jpg",
+            null
+        ]
+    },
+    "select_library.png": {
+        "contentType": "image/png",
+        "content_son": {
+            "category": "asset",
+            "course": "TestCourse",
+            "name": "select_library.png",
+            "org": "OpenedX",
+            "revision": null,
+            "run": "TestX",
+            "tag": "c4x"
+        },
+        "custom_md5": "0b4362cef20759e28535d04a6a3fce05",
+        "displayname": "select_library.png",
+        "filename": "asset-v1:OpenedX+TestCourse+TestX+type@asset+block@select_library.png",
+        "import_path": "select_library.png",
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "OpenedX",
+            "TestCourse",
+            "thumbnail",
+            "select_library-png.jpg",
+            null
+        ]
+    },
+    "slick-theme.css": {
+        "contentType": "text/css",
+        "content_son": {
+            "category": "asset",
+            "course": "TestCourse",
+            "name": "slick-theme.css",
+            "org": "OpenedX",
+            "revision": null,
+            "run": "TestX",
+            "tag": "c4x"
+        },
+        "custom_md5": "329acbb4c88ca9056c92098277699cfc",
+        "displayname": "slick-theme.css",
+        "filename": "asset-v1:OpenedX+TestCourse+TestX+type@asset+block@slick-theme.css",
+        "import_path": "slick-theme.css",
+        "locked": false,
+        "thumbnail_location": null
+    },
+    "slick.css": {
+        "contentType": "text/css",
+        "content_son": {
+            "category": "asset",
+            "course": "TestCourse",
+            "name": "slick.css",
+            "org": "OpenedX",
+            "revision": null,
+            "run": "TestX",
+            "tag": "c4x"
+        },
+        "custom_md5": "f38b2db10e01b1572732a3191d538707",
+        "displayname": "slick.css",
+        "filename": "asset-v1:OpenedX+TestCourse+TestX+type@asset+block@slick.css",
+        "import_path": "slick.css",
+        "locked": false,
+        "thumbnail_location": null
+    },
+    "slick.eot": {
+        "contentType": "application/octet-stream",
+        "content_son": {
+            "category": "asset",
+            "course": "TestCourse",
+            "name": "slick.eot",
+            "org": "OpenedX",
+            "revision": null,
+            "run": "TestX",
+            "tag": "c4x"
+        },
+        "custom_md5": "ced611daf7709cc778da928fec876475",
+        "displayname": "slick.eot",
+        "filename": "asset-v1:OpenedX+TestCourse+TestX+type@asset+block@slick.eot",
+        "import_path": "slick.eot",
+        "locked": false,
+        "thumbnail_location": null
+    },
+    "slick.js": {
+        "contentType": "text/javascript",
+        "content_son": {
+            "category": "asset",
+            "course": "TestCourse",
+            "name": "slick.js",
+            "org": "OpenedX",
+            "revision": null,
+            "run": "TestX",
+            "tag": "c4x"
+        },
+        "custom_md5": "483a3731bbe7046c1da3163da76dbe98",
+        "displayname": "slick.js",
+        "filename": "asset-v1:OpenedX+TestCourse+TestX+type@asset+block@slick.js",
+        "import_path": "slick.js",
+        "locked": false,
+        "thumbnail_location": null
+    },
+    "slick.svg": {
+        "contentType": "image/svg+xml",
+        "content_son": {
+            "category": "asset",
+            "course": "TestCourse",
+            "name": "slick.svg",
+            "org": "OpenedX",
+            "revision": null,
+            "run": "TestX",
+            "tag": "c4x"
+        },
+        "custom_md5": "f97e3bbf73254b0112091d0192f17aec",
+        "displayname": "slick.svg",
+        "filename": "asset-v1:OpenedX+TestCourse+TestX+type@asset+block@slick.svg",
+        "import_path": "slick.svg",
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "OpenedX",
+            "TestCourse",
+            "thumbnail",
+            "slick.svg",
+            null
+        ]
+    },
+    "slick.ttf": {
+        "contentType": "application/x-font-ttf",
+        "content_son": {
+            "category": "asset",
+            "course": "TestCourse",
+            "name": "slick.ttf",
+            "org": "OpenedX",
+            "revision": null,
+            "run": "TestX",
+            "tag": "c4x"
+        },
+        "custom_md5": "d41f55a78e6f49a5512878df1737e58a",
+        "displayname": "slick.ttf",
+        "filename": "asset-v1:OpenedX+TestCourse+TestX+type@asset+block@slick.ttf",
+        "import_path": "slick.ttf",
+        "locked": false,
+        "thumbnail_location": null
+    },
+    "slick.woff": {
+        "contentType": "application/font-woff",
+        "content_son": {
+            "category": "asset",
+            "course": "TestCourse",
+            "name": "slick.woff",
+            "org": "OpenedX",
+            "revision": null,
+            "run": "TestX",
+            "tag": "c4x"
+        },
+        "custom_md5": "b7c9e1e479de3b53f1e4e30ebac2403a",
+        "displayname": "slick.woff",
+        "filename": "asset-v1:OpenedX+TestCourse+TestX+type@asset+block@slick.woff",
+        "import_path": "slick.woff",
+        "locked": false,
+        "thumbnail_location": null
+    },
+    "studio-home-libraries.png": {
+        "contentType": "image/png",
+        "content_son": {
+            "category": "asset",
+            "course": "TestCourse",
+            "name": "studio-home-libraries.png",
+            "org": "OpenedX",
+            "revision": null,
+            "run": "TestX",
+            "tag": "c4x"
+        },
+        "custom_md5": "85965b01aa860b5f927d546609504dde",
+        "displayname": "studio-home-libraries.png",
+        "filename": "asset-v1:OpenedX+TestCourse+TestX+type@asset+block@studio-home-libraries.png",
+        "import_path": "studio-home-libraries.png",
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "OpenedX",
+            "TestCourse",
+            "thumbnail",
+            "studio-home-libraries-png.jpg",
+            null
+        ]
+    },
+    "summernote-lite.min.css": {
+        "contentType": "text/css",
+        "content_son": {
+            "category": "asset",
+            "course": "TestCourse",
+            "name": "summernote-lite.min.css",
+            "org": "OpenedX",
+            "revision": null,
+            "run": "TestX",
+            "tag": "c4x"
+        },
+        "custom_md5": "052eda17010c5fe6083f1b4081924ef2",
+        "displayname": "summernote-lite.min.css",
+        "filename": "asset-v1:OpenedX+TestCourse+TestX+type@asset+block@summernote-lite.min.css",
+        "import_path": "summernote-lite.min.css",
+        "locked": false,
+        "thumbnail_location": null
+    },
+    "summernote-lite.min.js": {
+        "contentType": "text/javascript",
+        "content_son": {
+            "category": "asset",
+            "course": "TestCourse",
+            "name": "summernote-lite.min.js",
+            "org": "OpenedX",
+            "revision": null,
+            "run": "TestX",
+            "tag": "c4x"
+        },
+        "custom_md5": "e65a83a6ce35c0ee65aba32243885298",
+        "displayname": "summernote-lite.min.js",
+        "filename": "asset-v1:OpenedX+TestCourse+TestX+type@asset+block@summernote-lite.min.js",
+        "import_path": "summernote-lite.min.js",
+        "locked": false,
+        "thumbnail_location": null
+    },
+    "summernote.eot": {
+        "contentType": "application/octet-stream",
+        "content_son": {
+            "category": "asset",
+            "course": "TestCourse",
+            "name": "summernote.eot",
+            "org": "OpenedX",
+            "revision": null,
+            "run": "TestX",
+            "tag": "c4x"
+        },
+        "custom_md5": "f4a47ce92c02ef70fc848508f4cec94a",
+        "displayname": "summernote.eot",
+        "filename": "asset-v1:OpenedX+TestCourse+TestX+type@asset+block@summernote.eot",
+        "import_path": "summernote.eot",
+        "locked": false,
+        "thumbnail_location": null
+    },
+    "summernote.ttf": {
+        "contentType": "application/x-font-ttf",
+        "content_son": {
+            "category": "asset",
+            "course": "TestCourse",
+            "name": "summernote.ttf",
+            "org": "OpenedX",
+            "revision": null,
+            "run": "TestX",
+            "tag": "c4x"
+        },
+        "custom_md5": "82fa597f29de41cd41a7c402bcf09ba5",
+        "displayname": "summernote.ttf",
+        "filename": "asset-v1:OpenedX+TestCourse+TestX+type@asset+block@summernote.ttf",
+        "import_path": "summernote.ttf",
+        "locked": false,
+        "thumbnail_location": null
+    },
+    "summernote.woff": {
+        "contentType": "application/font-woff",
+        "content_son": {
+            "category": "asset",
+            "course": "TestCourse",
+            "name": "summernote.woff",
+            "org": "OpenedX",
+            "revision": null,
+            "run": "TestX",
+            "tag": "c4x"
+        },
+        "custom_md5": "c1a96d26d30d9e0b2fd33c080d88c72e",
+        "displayname": "summernote.woff",
+        "filename": "asset-v1:OpenedX+TestCourse+TestX+type@asset+block@summernote.woff",
+        "import_path": "summernote.woff",
+        "locked": false,
+        "thumbnail_location": null
+    },
+    "summernote.woff2": {
+        "contentType": "application/octet-stream",
+        "content_son": {
+            "category": "asset",
+            "course": "TestCourse",
+            "name": "summernote.woff2",
+            "org": "OpenedX",
+            "revision": null,
+            "run": "TestX",
+            "tag": "c4x"
+        },
+        "custom_md5": "f694db69cded200e4edd999fddef81b7",
+        "displayname": "summernote.woff2",
+        "filename": "asset-v1:OpenedX+TestCourse+TestX+type@asset+block@summernote.woff2",
+        "import_path": "summernote.woff2",
+        "locked": false,
+        "thumbnail_location": null
+    },
+    "teams_application_screen.webp": {
+        "contentType": null,
+        "content_son": {
+            "category": "asset",
+            "course": "TestCourse",
+            "name": "teams_application_screen.webp",
+            "org": "OpenedX",
+            "revision": null,
+            "run": "TestX",
+            "tag": "c4x"
+        },
+        "custom_md5": "da210fff2ca9804f1158a075f4d7706f",
+        "displayname": "teams_application_screen.webp",
+        "filename": "asset-v1:OpenedX+TestCourse+TestX+type@asset+block@teams_application_screen.webp",
+        "import_path": "teams_application_screen.webp",
+        "locked": false,
+        "thumbnail_location": null
+    },
+    "thank_you.png": {
+        "contentType": "image/png",
+        "content_son": {
+            "category": "asset",
+            "course": "TestCourse",
+            "name": "thank_you.png",
+            "org": "OpenedX",
+            "revision": null,
+            "run": "TestX",
+            "tag": "c4x"
+        },
+        "custom_md5": "cf3d4269d6938c9baa8a7dc0a65053f0",
+        "displayname": "thank you.png",
+        "filename": "asset-v1:OpenedX+TestCourse+TestX+type@asset+block@thank_you.png",
+        "import_path": "thank you.png",
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "OpenedX",
+            "TestCourse",
+            "thumbnail",
+            "thank_you-png.jpg",
+            null
+        ]
+    },
+    "thumbnail_demox.jpeg": {
+        "contentType": "image/jpeg",
+        "content_son": {
+            "category": "asset",
+            "course": "TestCourse",
+            "name": "thumbnail_demox.jpeg",
+            "org": "OpenedX",
+            "revision": null,
+            "run": "TestX",
+            "tag": "c4x"
+        },
+        "custom_md5": "763aa7c54faca5717829da4b4fd4516d",
+        "displayname": "thumbnail_demox.jpeg",
+        "filename": "asset-v1:OpenedX+TestCourse+TestX+type@asset+block@thumbnail_demox.jpeg",
+        "import_path": "thumbnail_demox.jpeg",
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "OpenedX",
+            "TestCourse",
+            "thumbnail",
+            "thumbnail_demox-jpeg.jpg",
+            null
+        ]
+    },
+    "thumbnail_draft.png": {
+        "contentType": "image/png",
+        "content_son": {
+            "category": "asset",
+            "course": "TestCourse",
+            "name": "thumbnail_draft.png",
+            "org": "OpenedX",
+            "revision": null,
+            "run": "TestX",
+            "tag": "c4x"
+        },
+        "custom_md5": "e14c4642eada367b1b0ec5f8a0cbf4da",
+        "displayname": "thumbnail_draft.png",
+        "filename": "asset-v1:OpenedX+TestCourse+TestX+type@asset+block@thumbnail_draft.png",
+        "import_path": "thumbnail_draft.png",
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "OpenedX",
+            "TestCourse",
+            "thumbnail",
+            "thumbnail_draft-png.jpg",
+            null
+        ]
+    },
+    "try-it-bg.jpg": {
+        "contentType": "image/jpeg",
+        "content_son": {
+            "category": "asset",
+            "course": "TestCourse",
+            "name": "try-it-bg.jpg",
+            "org": "OpenedX",
+            "revision": null,
+            "run": "TestX",
+            "tag": "c4x"
+        },
+        "custom_md5": "8d6916bd0752be370d89b932bf0d7c4a",
+        "displayname": "try-it-bg.jpg",
+        "filename": "asset-v1:OpenedX+TestCourse+TestX+type@asset+block@try-it-bg.jpg",
+        "import_path": "try-it-bg.jpg",
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "OpenedX",
+            "TestCourse",
+            "thumbnail",
+            "try-it-bg.jpg",
+            null
+        ]
+    },
+    "yellow_sq.png": {
+        "contentType": "image/png",
+        "content_son": {
+            "category": "asset",
+            "course": "TestCourse",
+            "name": "yellow_sq.png",
+            "org": "OpenedX",
+            "revision": null,
+            "run": "TestX",
+            "tag": "c4x"
+        },
+        "custom_md5": "0e366ded153e95014b0528649c82a8a9",
+        "displayname": "yellow_sq.png",
+        "filename": "asset-v1:OpenedX+TestCourse+TestX+type@asset+block@yellow_sq.png",
+        "import_path": "yellow_sq.png",
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "OpenedX",
+            "TestCourse",
+            "thumbnail",
+            "yellow_sq-png.jpg",
             null
         ]
     }

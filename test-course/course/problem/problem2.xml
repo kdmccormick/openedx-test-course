@@ -1,0 +1,16 @@
+<problem url_name="5631a29cb1c5451eba363f3af914d99a" copied_from_block="block-v1:OpenedX+TestCourse+TestX+type@problem+block@5631a29cb1c5451eba363f3af914d99a" display_name="Derivative (uses mitxgraders zip)" markdown="null" upstream="null">
+<script type="text/python">
+from mitxgraders import *
+grader = FormulaGrader(
+    variables=["x"],
+    # allows students to use generic functions f and f' in their input
+    user_functions={"f": RandomFunction(), "f'": RandomFunction()}
+)
+</script>
+
+  <p>Enter the derivative of \(g(x) = e^{f(x^2)} \).</p>
+  <customresponse cfn="grader" answer="e^(f(x)) * f'(x^2) * 2*x">
+    <textline math="true"/>
+  </customresponse>
+
+</problem>
